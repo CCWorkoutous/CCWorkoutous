@@ -1,0 +1,9 @@
+C:\src\template\WorkOutous\WorkOutous\bin\Debug\netcoreapp1.1\WorkOutous.deps.json
+C:\src\template\WorkOutous\WorkOutous\bin\Debug\netcoreapp1.1\WorkOutous.runtimeconfig.json
+C:\src\template\WorkOutous\WorkOutous\bin\Debug\netcoreapp1.1\WorkOutous.runtimeconfig.dev.json
+C:\src\template\WorkOutous\WorkOutous\bin\Debug\netcoreapp1.1\WorkOutous.dll
+C:\src\template\WorkOutous\WorkOutous\bin\Debug\netcoreapp1.1\WorkOutous.pdb
+C:\src\template\WorkOutous\WorkOutous\obj\Debug\netcoreapp1.1\WorkOutous.csprojResolveAssemblyReference.cache
+C:\src\template\WorkOutous\WorkOutous\obj\Debug\netcoreapp1.1\WorkOutous.AssemblyInfo.cs
+C:\src\template\WorkOutous\WorkOutous\obj\Debug\netcoreapp1.1\WorkOutous.dll
+C:\src\template\WorkOutous\WorkOutous\obj\Debug\netcoreapp1.1\WorkOutous.pdb
